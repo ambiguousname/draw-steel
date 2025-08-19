@@ -83,7 +83,7 @@
     "url": "systems/draw-steel/assets/anvil-impact.png",
     "thumbnail": "systems/draw-steel/assets/anvil-impact.png"
   }],
-  "version": "0.7.3",
+  "version": "0.7.4-please-remove",
   "compatibility": {
     "minimum": "13.340",
     "verified": "13"
